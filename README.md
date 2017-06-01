@@ -16,3 +16,4 @@ String str = "あああ";
 print.out.println(str);
 }
 ```
+簡単な書式形式
